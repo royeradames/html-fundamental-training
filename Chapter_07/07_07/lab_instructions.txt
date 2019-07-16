@@ -2,16 +2,16 @@ Challenge instructions for Chapter 07: Controlling Styling
 
 In this challenge, you’ll work on the sample HTML Training reference site to add site-wide styling to the pages and enhance the page's layout and formatting through writing styles
 
-1.	Link external style sheet site-wide
+1.	(Done) Link external style sheet site-wide
 			a.	Applies to: all pages
 			b.	In the head of each page, use the link element to link to the styles.css file. Be sure to remember to define the styles.css relationship as stylesheet.
 
-2.	Set the background color of pages
+2.	(Done) Set the background color of pages
 			a.	Applies to: styles.css
 			b.	In the styles.css file, find the html,body rule (which controls the html and body element)
 			c. Set the background color to #663399. As a bonus, if you remember how to format a comment in CSS, add the comment 'Beccapurple' after the color definition.
 
-3.	Float images
+3.	(Done) Float images
 			a.	Applies to: styles.css
 			b.	Find the .flowRight and .flowLeft selectors (around line 98)
 			c. Set the float property for flowRight to right and flowLeft to left
